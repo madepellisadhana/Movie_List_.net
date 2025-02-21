@@ -1,0 +1,416 @@
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\appsettings.json
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Movie_List.staticwebassets.runtime.json
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Movie_List.staticwebassets.endpoints.json
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Movie_List.exe
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Movie_List.deps.json
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Movie_List.runtimeconfig.json
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Movie_List.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Movie_List.pdb
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Humanizer.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.csproj.AssemblyReference.cache
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.AssemblyInfoInputs.cache
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.AssemblyInfo.cs
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.csproj.CoreCompileInputs.cache
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.RazorAssemblyInfo.cache
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.RazorAssemblyInfo.cs
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\obj\Debug\net8.0\scopedcss\bundle\Movie_List.styles.css
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\obj\Debug\net8.0\scopedcss\projectbundle\Movie_List.bundle.scp.css
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\obj\Debug\net8.0\staticwebassets\msbuild.Movie_List.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\obj\Debug\net8.0\staticwebassets\msbuild.Movie_List.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\obj\Debug\net8.0\staticwebassets\msbuild.build.Movie_List.props
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Movie_List.props
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Movie_List.props
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.csproj.Up2Date
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\obj\Debug\net8.0\refint\Movie_List.dll
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.pdb
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.genruntimeconfig.cache
+C:\Users\samee\OneDrive - Humber College\Desktop\Semester 3\ASP.NET\Movie_List\Movie_List\obj\Debug\net8.0\ref\Movie_List.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\appsettings.Development.json
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\appsettings.json
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Movie_List.staticwebassets.runtime.json
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Movie_List.exe
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Movie_List.deps.json
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Movie_List.runtimeconfig.json
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Movie_List.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Movie_List.pdb
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Azure.Core.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Azure.Identity.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Humanizer.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\System.CodeDom.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.csproj.AssemblyReference.cache
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.AssemblyInfoInputs.cache
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.AssemblyInfo.cs
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.csproj.CoreCompileInputs.cache
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.MvcApplicationPartsAssemblyInfo.cache
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.RazorAssemblyInfo.cache
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.RazorAssemblyInfo.cs
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\obj\Debug\net8.0\staticwebassets.build.json
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\obj\Debug\net8.0\staticwebassets.development.json
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\obj\Debug\net8.0\staticwebassets\msbuild.Movie_List.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\obj\Debug\net8.0\staticwebassets\msbuild.build.Movie_List.props
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Movie_List.props
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Movie_List.props
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\obj\Debug\net8.0\scopedcss\bundle\Movie_List.styles.css
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\obj\Debug\net8.0\scopedcss\projectbundle\Movie_List.bundle.scp.css
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.csproj.Up2Date
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\obj\Debug\net8.0\refint\Movie_List.dll
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.pdb
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.genruntimeconfig.cache
+D:\ITS\Sem3\ASPNET\Movie_List\Movie_List\obj\Debug\net8.0\ref\Movie_List.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\appsettings.json
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Movie_List.staticwebassets.runtime.json
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Movie_List.staticwebassets.endpoints.json
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Movie_List.exe
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Movie_List.deps.json
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Movie_List.runtimeconfig.json
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Movie_List.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Movie_List.pdb
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Humanizer.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.csproj.AssemblyReference.cache
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.AssemblyInfoInputs.cache
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.AssemblyInfo.cs
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.csproj.CoreCompileInputs.cache
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.RazorAssemblyInfo.cache
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.RazorAssemblyInfo.cs
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\obj\Debug\net8.0\scopedcss\bundle\Movie_List.styles.css
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\obj\Debug\net8.0\scopedcss\projectbundle\Movie_List.bundle.scp.css
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\obj\Debug\net8.0\staticwebassets\msbuild.Movie_List.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\obj\Debug\net8.0\staticwebassets\msbuild.Movie_List.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\obj\Debug\net8.0\staticwebassets\msbuild.build.Movie_List.props
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Movie_List.props
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Movie_List.props
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.csproj.Up2Date
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\obj\Debug\net8.0\refint\Movie_List.dll
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.pdb
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\obj\Debug\net8.0\Movie_List.genruntimeconfig.cache
+C:\Users\sadhana\Downloads\Movie_List\Movie_List\Movie_List\obj\Debug\net8.0\ref\Movie_List.dll
